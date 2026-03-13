@@ -1,0 +1,11 @@
+C:\Users\brbra\Desktop\Ejercicios\ListaEnlazada\bin\Debug\ListaEnlazada.exe.config
+C:\Users\brbra\Desktop\Ejercicios\ListaEnlazada\bin\Debug\ListaEnlazada.exe
+C:\Users\brbra\Desktop\Ejercicios\ListaEnlazada\bin\Debug\ListaEnlazada.pdb
+C:\Users\brbra\Desktop\Ejercicios\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.AssemblyReference.cache
+C:\Users\brbra\Desktop\Ejercicios\ListaEnlazada\obj\Debug\ListaEnlazada.Form1.resources
+C:\Users\brbra\Desktop\Ejercicios\ListaEnlazada\obj\Debug\ListaEnlazada.Properties.Resources.resources
+C:\Users\brbra\Desktop\Ejercicios\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.GenerateResource.cache
+C:\Users\brbra\Desktop\Ejercicios\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\brbra\Desktop\Ejercicios\ListaEnlazada\obj\Debug\ListaEnlazada.exe
+C:\Users\brbra\Desktop\Ejercicios\ListaEnlazada\obj\Debug\ListaEnlazada.pdb
+C:\Users\brbra\Desktop\Ejercicios\ListaEnlazada\obj\Debug\ListaEnlazada.exe.config
