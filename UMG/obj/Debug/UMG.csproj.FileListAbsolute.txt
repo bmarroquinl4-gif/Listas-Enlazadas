@@ -1,0 +1,11 @@
+C:\Users\brbra\Desktop\Ejercicios\UMG\bin\Debug\UMG.exe.config
+C:\Users\brbra\Desktop\Ejercicios\UMG\bin\Debug\UMG.exe
+C:\Users\brbra\Desktop\Ejercicios\UMG\bin\Debug\UMG.pdb
+C:\Users\brbra\Desktop\Ejercicios\UMG\obj\Debug\UMG.csproj.AssemblyReference.cache
+C:\Users\brbra\Desktop\Ejercicios\UMG\obj\Debug\UMG.Form1.resources
+C:\Users\brbra\Desktop\Ejercicios\UMG\obj\Debug\UMG.Properties.Resources.resources
+C:\Users\brbra\Desktop\Ejercicios\UMG\obj\Debug\UMG.csproj.GenerateResource.cache
+C:\Users\brbra\Desktop\Ejercicios\UMG\obj\Debug\UMG.csproj.CoreCompileInputs.cache
+C:\Users\brbra\Desktop\Ejercicios\UMG\obj\Debug\UMG.exe
+C:\Users\brbra\Desktop\Ejercicios\UMG\obj\Debug\UMG.pdb
+C:\Users\brbra\Desktop\Ejercicios\UMG\obj\Debug\UMG.exe.config
